@@ -1,4 +1,4 @@
-# lotsa-Tests
+# Lotsa Tests
 
 The goal of this is to create a repository of tests that can be applied to popular (or unpopular) algorithms. The use case would allow for individual implementations to be tested against a common core of tests.
 
